@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ashnel.CozyGrove.ToggleInventory", "projects\Ashnel.CozyGrove.ToggleInventory\Ashnel.CozyGrove.ToggleInventory.csproj", "{B63760CF-D72E-41B3-ACB9-55EF29D1CCD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63760CF-D72E-41B3-ACB9-55EF29D1CCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63760CF-D72E-41B3-ACB9-55EF29D1CCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63760CF-D72E-41B3-ACB9-55EF29D1CCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63760CF-D72E-41B3-ACB9-55EF29D1CCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFC4AB33-2746-4835-8661-929C1A0DFA78}
+	EndGlobalSection
+EndGlobal
