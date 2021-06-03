@@ -6,6 +6,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ashnel.CozyGrove.ToggleInve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ashnel.CozyGrove.PreventHUDFade", "projects\Ashnel.CozyGrove.PreventHUDFade\Ashnel.CozyGrove.PreventHUDFade.csproj", "{B63760CF-D72E-41B3-ACB9-55EF29D1CCD9}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ashnel.CozyGrove.TimeTravelButton", "projects\Ashnel.CozyGrove.TimeTravelButton\Ashnel.CozyGrove.TimeTravelButton.csproj", "{B63760CF-D72E-41B3-ACB9-55EF29D1CCD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ashnel.CozyGrove.ClearInbox", "projects\Ashnel.CozyGrove.ClearInbox\Ashnel.CozyGrove.ClearInbox.csproj", "{B63760CF-D72E-41B3-ACB9-55EF29D1CCD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
