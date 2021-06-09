@@ -10,6 +10,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ashnel.CozyGrove.ClearInbox
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ashnel.CozyGrove.InstantCooking", "projects\Ashnel.CozyGrove.InstantCooking\Ashnel.CozyGrove.InstantCooking.csproj", "{B63760CF-D72E-41B3-ACB9-55EF29D1CCD9}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ashnel.CozyGrove.CritterRepellant", "projects\Ashnel.CozyGrove.CritterRepellant\Ashnel.CozyGrove.CritterRepellant.csproj", "{B63760CF-D72E-41B3-ACB9-55EF29D1CCD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
